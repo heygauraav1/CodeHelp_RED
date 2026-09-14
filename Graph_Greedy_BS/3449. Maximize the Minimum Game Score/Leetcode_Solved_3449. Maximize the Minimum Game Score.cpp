@@ -5,11 +5,6 @@
 // Time Complexity: O(n * log M), where M is the maximum possible score that can be achieved.
 // Space Complexity: O(1), as we are using a constant amount of extra space.
 
-#include <algorithm>
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
   typedef long long ll;
